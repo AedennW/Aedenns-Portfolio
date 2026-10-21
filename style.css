@@ -5,7 +5,7 @@ body {
 header {
     display: flex;
     align-items: center;
-    background-color: #E2EEFF;
+    background-color: #E7F1FA;
     padding: 0px 20px;
     border-radius: 15px;
 }
@@ -42,3 +42,30 @@ p {
     color: #475569;
 }
 
+.introduction {
+    background-color: #DAE8F9;
+    border-radius: 15px;
+}   
+
+.introduction-stuff {
+    font-size: 24px;
+    padding: 100px 100px;
+}
+
+.introduction-image-one {
+    display: flex;
+    width: 500px;
+    border-radius: 15px;
+    position: absolute;
+    bottom : 410px;
+    left: 600px;
+}
+
+.introduction-image-two {
+    display: flex;
+    width: 500px;
+    border-radius: 15px;
+    position: absolute;
+    bottom : 433px;
+    left: 800px;
+}
